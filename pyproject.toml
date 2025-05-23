@@ -2,7 +2,7 @@
 name = "refugee-alert-bot"
 version = "0.1.0"
 description = "A Telegram bot to forward refugee emergency alerts."
-authors = ["vanzar2017@gmail.com"]
+authors = ["Van Za <vanzar2017@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
