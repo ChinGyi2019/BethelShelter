@@ -2,12 +2,12 @@
 name = "refugee-alert-bot"
 version = "0.1.0"
 description = "A Telegram bot to forward refugee emergency alerts."
-authors = ["Your Name <your@email.com>"]
+authors = ["vanzar2017@gmail.com"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-python-telegram-bot = "^20.0"
+python-telegram-bot = "^20.7"
 # Optional: if you need dotenv support
 python-dotenv = "^1.0.0"
 
