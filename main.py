@@ -3,8 +3,8 @@ from telegram import Update
 
 import os
 
-BOT_TOKEN = "8074657707:AAHEKs6vUtijx3GGVod_-VlzuQmH47nvIdg"
-CHANNEL_ID = "@BethelShelter"  # Example: "@yourchannel" or "-1001234567890"
+BOT_TOKEN = '8074657707:AAHEKs6vUtijx3GGVod_-VlzuQmH47nvIdg'
+CHANNEL_ID = '@BethelShelter'  # Example: "@yourchannel" or "-1001234567890"
 
 ALLOWED_WORDS = ["police", "check", "safe", "danger", "help", "emergency"]
 
