@@ -1,14 +1,15 @@
 [tool.poetry]
-name = "bethel-shelter"
+name = "refugee-alert-bot"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "A Telegram bot to forward refugee emergency alerts."
+authors = ["Your Name <your@email.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-fastapi = "^0.110.0"
-uvicorn = "^0.29.0"
-# add others...
+python-telegram-bot = "^20.0"
+# Optional: if you need dotenv support
+python-dotenv = "^1.0.0"
 
 [build-system]
 requires = ["poetry-core"]
